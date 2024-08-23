@@ -1,1 +1,1 @@
-Project uploaded on this [url](https://harshraut10.pythonanywhere.com/)
+[Click here](https://harshraut10.pythonanywhere.com/) to access the deployed project
